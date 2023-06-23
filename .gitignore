@@ -1,0 +1,18 @@
+# Python-specific ignore patterns
+*.pyc
+__pycache__/
+*.egg-info/
+
+# IDE-specific ignore patterns
+.vscode/
+.idea/
+
+# Dependency directories
+/venv/
+/env/
+/robotics/
+
+# Generated files
+/dist/
+/build/
+/robotic_arm_project.egg-info/
