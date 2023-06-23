@@ -43,6 +43,15 @@ robotic_arm_project/
   - `__init__.py`: An empty file to mark the directory as a Python package.
   - `math_utils.py`: Contains utility math functions (placeholder for potential future utility functions).
 
+
+## UML Diagrams
+
+- Structure Diagram: [Link to UML/StructureDiagram.png](UML/Robotic%20Arm%20Project.png)
+- Use Case Diagram: [Link to UML/UseCaseDiagram.png](UML/UML/Use_Case_%20Robotic%20Arm.png)
+- Class Diagram: [Link to UML/ClassDiagram.png](UML/Class_Diagram%20Robotic%20Arm.png)
+- Sequence Diagram: [Link to UML/SequenceDiagram.png](UML/Sequence_Diagram%20Robotic%20Arm.png)
+- Package Diagram: [Link to UML/PackageDiagram.png](UML/Package%20Diagram%20Robotic%20Arm.png)
+
 ## Usage
 
 To run the project, make sure you have Python 3.x installed. Then, follow these steps:
