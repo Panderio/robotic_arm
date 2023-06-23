@@ -4,6 +4,9 @@ This is a Python project that simulates a robotic arm and performs pick-and-plac
 
 ## Project Structure
 
+![Link to UML/StructureDiagram.png](UML/Robotic%20Arm%20Project.png)
+
+
 The project has the following file structure:
 
 ```
